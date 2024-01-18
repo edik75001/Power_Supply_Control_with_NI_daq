@@ -1,0 +1,1 @@
+This script allows you to connect to the NI daq and remotely control two power supplies. Additionally, two other scripts, developed using a Machine Learning algorithm (Polynomial Regression), can display the magnetic field of the magnet controlled by the power supplies and the beam energy of the accelerator in related of the power given from power supplie to the magnet.
